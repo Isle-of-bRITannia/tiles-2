@@ -21,3 +21,4 @@ export const branches = await imgTile('./branches.jpg');
 export const clouds = await imgTile('./clouds.webp');
 export const mountainsTrees = await imgTile('./mountains_trees.jpg');
 export const sun = await imgTile('./sun.webp');
+export const sky = await imgTile('./clearsky.jpeg');
